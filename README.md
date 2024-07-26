@@ -5,7 +5,7 @@ Boston Housing prices- Linear Regression analysis.
 - ID:CT8ML1170
 - Domain:Machine Learning
 - Duration:June to August 2024
-- Mentor : Sravani Gouni
+- Mentor : NEELA SANTHOSH KUMAR
 # Overview of the project:
 ### project: Boston Housing prices-Linear Regression analysis
 ### Overview of the project:
